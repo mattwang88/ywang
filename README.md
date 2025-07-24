@@ -1,6 +1,6 @@
 # Yunchen's Blog
 
-Build with [**Chirpy**][chirpy] theme through [RubyGems.org][gem].
+Build with [**Chirpy**][chirpy]
 
 ## License
 
